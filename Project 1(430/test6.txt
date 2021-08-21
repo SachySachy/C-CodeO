@@ -1,0 +1,12 @@
+-- Function with a = /= > >= <= / -
+
+function test2 returns integer;
+begin
+    7 * 2 or (2  not  4);
+    4 /= 2;
+    4 + 4 = 8
+    if 2 <= 2;
+    3 > 2;
+    3 < 2;
+    4 - 3 / 4;
+end;

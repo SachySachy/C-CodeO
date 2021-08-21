@@ -1,0 +1,7 @@
+-- Function with arithmetic expression
+
+function test1 returns integer;
+case
+begin
+    7 + 2 * (2  + 4);
+end;
